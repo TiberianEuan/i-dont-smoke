@@ -1,0 +1,12 @@
+{
+  "name": "dont smoke thats dumb",
+  "short_name": "dont smoke thats dumb",
+  "id": "com.idontsmoke.euan",
+  "description": "A game made by TiberianEuan, for media class at school.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
